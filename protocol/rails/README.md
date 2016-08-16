@@ -7,7 +7,7 @@ Set Up Laptop
 -------------
 
 Set up your laptop with [this script](https://github.com/thoughtbot/laptop)
-and [these dotfiles](https://github.com/thoughtbot/dotfiles).
+and [these dotfiles](https://github.com/shipcloud/dotfiles).
 
 Create App
 ----------

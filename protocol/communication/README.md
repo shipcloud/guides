@@ -1,7 +1,7 @@
 Communication
 =============
 
-A guide for communicating within thoughtbot.
+A guide for communicating within shipcloud.
 
 Tickets
 -------

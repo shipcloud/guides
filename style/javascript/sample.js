@@ -8,5 +8,5 @@ class Cat {
 
 const somePerson = {
   name: 'Ralph',
-  company: 'thoughtbot',
+  company: 'shipcloud',
 };
