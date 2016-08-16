@@ -43,13 +43,6 @@ waiting a week for everybody to leave feedback**.
 Credits
 -------
 
-Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
-
-![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
-
-Guides is maintained by [thoughtbot, inc](http://thoughtbot.com/community).
-
-
 Thank you, [thoughtbot](http://thoughtbot.com/community) and all the [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
 
 ![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
@@ -58,6 +51,8 @@ The original [Guides](https://github.com/thoughtbot/guides) is maintained
 by [thoughtbot, inc](http://thoughtbot.com/community).
 
 This fork is maintained by [shipcloud](https://github.com/shipcloud).
+
+![shipcloud](https://www.shipcloud.io/logos/shipcloud_168_39@2x.png)
 
 License
 -------
