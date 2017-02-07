@@ -24,6 +24,11 @@ Create a local feature branch based off master.
     git pull
     git checkout -b <branch-name>
 
+Your branch name should be formatted like this:
+
+    <your-initials> - t <trello-ticket-number> - <description>
+    Example: pt-t1385-add-address-to-user
+
 Rebase frequently to incorporate upstream changes.
 
     git fetch origin
