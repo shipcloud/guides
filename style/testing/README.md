@@ -10,10 +10,13 @@ Testing
 * Use RSpec's [`allow` syntax] for method stubs.
 * Use `not_to` instead of `to_not` in RSpec expectations.
 * Prefer the `have_css` matcher to the `have_selector` matcher in Capybara assertions.
+* Use [shoulda-matchers][shoulda-matchers] helpers to test validations. [Example][shoulda-matchers-example]
 
 [`expect` syntax]: http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax
 [`allow` syntax]: https://github.com/rspec/rspec-mocks#method-stubs
 [predicate-example]: predicate_tests_spec.rb
+[shoulda-matchers]: https://github.com/thoughtbot/shoulda-matchers
+[shoulda-matchers-example]: shoulda_matchers_spec.rb
 
 Acceptance Tests
 ----------------
