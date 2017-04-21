@@ -18,7 +18,7 @@ Ruby
 * Prefer `detect` over `find`.
 * Prefer `select` over `find_all`.
 * Prefer `map` over `collect`.
-* Prefer `reduce` over `inject`.
+* Prefer `inject` over `reduce`.
 * Prefer double quotes for strings.
 * Prefer `&&` and `||` over `and` and `or`.
 * Prefer `!` over `not`.
