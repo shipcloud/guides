@@ -50,7 +50,7 @@ Write a [good commit message]. Example format:
     * More information about commit (under 72 characters).
     * More information about commit (under 72 characters).
 
-    http://project.management-system.com/ticket/123
+    [Trello #nr](https://trello.com/ticket_link)
 
 If you've created more than one commit,
 [use `git rebase` interactively](https://help.github.com/articles/about-git-rebase/)
