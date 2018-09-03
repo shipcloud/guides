@@ -9,7 +9,7 @@ Testing
 * Use RSpec's [`expect` syntax].
 * Use RSpec's [`allow` syntax] for method stubs.
 * Use `not_to` instead of `to_not` in RSpec expectations.
-* Prefer checking values of `i18n` translations over translation keys. [Example][translation-example]
+* Prefer checking values of `i18n` translations to translation keys. [Example][translation-example]
 * Prefer the `have_css` matcher to the `have_selector` matcher in Capybara assertions.
 * Use [shoulda-matchers][shoulda-matchers] helpers to test validations. [Example][shoulda-matchers-example]
 * Use `-> { ... }` (lambda) when the expectation depends on the execution of a block
