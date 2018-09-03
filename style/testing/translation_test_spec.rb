@@ -11,7 +11,6 @@ end
 describe SomeClass do
   describe "#error_message" do
     it "returns a translated message" do
-
       # GOOD
       expect(subject.error_message).to eq "Translated error message"
 
