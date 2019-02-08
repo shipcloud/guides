@@ -577,6 +577,10 @@ Performance/StringReplacement:
   Reference: 'https://github.com/JuanitoFatas/fast-ruby#stringgsub-vs-stringtr-code'
   Enabled: false
 
+Performance/UnfreezeString:
+  Description: 'Use unary plus to get an unfrozen string literal.'
+  Enabled: false
+  
 # Rails
 
 Rails/ActionFilter:
